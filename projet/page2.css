@@ -1,0 +1,107 @@
+.logo{
+    text-align: center;
+    color: burlywood;
+}
+
+.reseau{
+    text-align: center;
+ 
+    margin: 10%;
+    padding: 10%;
+    display: inline
+}
+
+a{
+    display: inline;
+   
+    
+}
+
+a:hover 
+{
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+    
+}
+
+body{
+    text-align: center;
+    background: linear-gradient(-45deg, #EE7752, #23A6D5, #23D5AB);
+    animation: Gradient 15s ease infinite; 
+    
+}
+
+.alp{
+   
+    text-align: left;
+    margin: 10%;
+    padding: 0%;
+}
+.alp:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.G2B{
+    text-align: right;
+    margin: 10%;
+    padding: 0%;
+}
+
+.G2B:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+    
+
+
+.NI{
+    
+    margin: 10%;
+    padding: 0%;
+  
+}
+.NI:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.ziak{
+    margin: 10%;
+    padding: 0%;
+}
+
+.ziak:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.tiakola{
+    text-align: left;
+    margin: 10%;
+    padding: 0%;
+}
+
+.tiakola:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.niska:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}

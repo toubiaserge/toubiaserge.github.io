@@ -1,0 +1,6 @@
+body{
+    text-align: center;
+    background: linear-gradient(-45deg, #EE7752, #23A6D5, #23D5AB);
+    animation: Gradient 15s ease infinite; 
+    
+}
